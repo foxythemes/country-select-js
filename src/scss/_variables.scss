@@ -22,7 +22,7 @@ $selected-flag-width: $flag-width + (2 * $flag-padding) !default;
 $selected-flag-arrow-width: $flag-width + $flag-padding + $arrow-width + (2 * $arrow-padding) !default;
 
 // image related variables
-$flags-image-path: "../../build/img/" !default;
+$flags-image-path: "../img/" !default;
 $flags-image-name: "flags" !default;
 $flags-image-extension: "png" !default;
 
